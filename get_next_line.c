@@ -6,12 +6,11 @@
 /*   By: rvuorenl <rvuorenl@student.hive.fi>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/12/03 13:13:52 by rvuorenl          #+#    #+#             */
-/*   Updated: 2021/12/16 12:43:37 by rvuorenl         ###   ########.fr       */
+/*   Updated: 2021/12/17 13:37:55 by rvuorenl         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "get_next_line.h"
-#include <stdio.h>
 
 static int	join_str(char *tmp, char **files)
 {
